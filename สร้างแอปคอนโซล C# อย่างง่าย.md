@@ -1,18 +1,3 @@
-# สร้างแอปคอนโซล C# อย่างง่าย
-
-ในบทความนี้
-|ข้อกําหนดเบื้องต้น
-|สร้างโครงการ
-|สร้างแอป
-|แก้ไขข้อบกพร่องของแอป
-|ปิดแอพ
-|เพิ่มการควบคุมแหล่งที่มาของ Git
-|ใช้การดําเนินการ Git ใน Visual Studio
-|รีวิว: รหัสเสร็จสมบูรณ์
-|ขั้นตอนถัดไป
-
-_____________________________________________________
-
 ---
 title: "Tutorial: Create a simple C# console app "
 description: Create a C# console application in Visual Studio and explore some features of the Visual Studio integrated development environment (IDE).
